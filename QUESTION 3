@@ -1,0 +1,14 @@
+ Using BODMAS to solve a simple equation.
+ x = 14
+y = 23
+z = 6
+f = 10
+answer = (x — y) * z / f 
+print (“Result =”, answer)
+O/P : Result = -5.4
+e = ((x - y) * z) / f    
+print("Result =",  answer)
+O/P : Result = -5.4
+e = (x - y) * (z / f);    
+print("Result =",  answer)
+O/P : Result = -5.4
