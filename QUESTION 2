@@ -1,0 +1,9 @@
+Calculating the Area and Perimeter of a Rectangle.
+a = 2
+b = 3
+area = a*b
+perimeter = 2 * (a+b)
+print(area) #printing the area
+O/P : 6
+print(perimeter)#printing peri
+O/P : 10
