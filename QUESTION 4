@@ -1,0 +1,11 @@
+Testing if a number is even or odd.
+a = 6
+b = 2
+c = a%b
+print(c)
+O/P : 0 # number is even
+a = 7
+b = 2
+c = a%b
+print(c)
+O/P : 1 # number is odd
